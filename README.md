@@ -6,6 +6,10 @@ The presentation is available on [nbviewer](http://nbviewer.jupyter.org/github/m
 - introduce jupyter lab
 - port code to python3
 
+# Interactive markdown
+
+Press Shift + Enter to run the code below
+
 ```python
 print('hello')
 ```
